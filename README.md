@@ -1,8 +1,8 @@
 ### Hi/bonjour :raised_hand:
 
-- :evergreen_tree: I'm Nick, a web developer. In the last several months, I've been working with the LAMP stack and jQuery. Windows/Linux.
-- :pencil: I've recently (finally) started working with React and Vue. I don't want to get *too* stuck in old tech.
-- :hourglass_flowing_sand: The work for my most recent position was all on GitLab, so you won't see that here.
+- :evergreen_tree: I'm Nick, a web developer, as you doubtless could have guessed.
+- :pencil: I primarily work with the LAMP stack and SCSS/CSS/JS/jQuery, but I also dabble in React and Angular.
+- :hourglass_flowing_sand: The sands of time flow onward, so we must strive to maintain, clean, refactor, build!
 
 <!--
 **nlamo/nlamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

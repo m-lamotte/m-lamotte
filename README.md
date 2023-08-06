@@ -1,8 +1,6 @@
 ### Hi/bonjour :raised_hand:
 
-- :evergreen_tree: I'm Nick, a web developer, as you doubtless could have guessed.
-- :pencil: I work primarily in the LAMP stack and SCSS/CSS/JS/jQuery, but I also dabble in React and Svelte.
-- :hourglass_flowing_sand: The sands of time flow onward, so we must strive to maintain, clean, refactor, build!
+- :evergreen_tree: Greetings! I am a web developer, primarily experienced in the WordPress space - PHP on the back end and HTML/Sass/JavaScript/jQuery/React on the front end, and I dabble in several other languages.
 
 <!--
 **nlamo/nlamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

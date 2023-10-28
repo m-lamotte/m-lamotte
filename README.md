@@ -1,7 +1,7 @@
 ### Hi/bonjour :raised_hand:
 
 - :evergreen_tree: Hello! My name is Nicholas, and I'm a web developer :: back-end and front-end development.
-- :scroll: Primarily experienced in WordPress - PHP, SQL, HTML, CSS/Sass, JavaScript/jQuery. React.
+- :scroll: Primarily experienced in WordPress - PHP, SQL, HTML, CSS/Sass, JavaScript/jQuery, React.
 - :floppy_disk: Currently messing around in TypeScript.
 
 <!--

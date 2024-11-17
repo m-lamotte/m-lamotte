@@ -1,4 +1,4 @@
-### Hello! Bonjour! :wave:
+### Hello, bonjour! :wave:
 
 - :deciduous_tree: Hello! My name is Nick (Nicholas), and I'm a web developer :: back-end and front-end development.
 - :computer: Primarily experienced in WordPress, PHP, SQL, HTML, CSS/Sass, JavaScript/jQuery (and a bit of React).

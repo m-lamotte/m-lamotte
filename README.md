@@ -1,6 +1,6 @@
 ### Hello, bonjour! :wave:
 
-- :deciduous_tree: My name is Nick (Nicholas), and I'm a web developer :: back-end and front-end development.
+- :deciduous_tree: My name is Nick (Nicholas), and I'm a web developer :: back-end and front-end.
 - :computer: Primarily experienced in WordPress, PHP, SQL, HTML, CSS/Sass, JavaScript/jQuery (and a bit of React).
 - :newspaper: I also dabble in writing, editing, and proofreading (e.g. copywriting, copyediting, and technical writing).
 - :fr: With respect to languages, I am fluent in English and modestly functional in French. 

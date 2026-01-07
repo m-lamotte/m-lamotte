@@ -1,15 +1,8 @@
-### Hello, bonjour! :wave:
+### Hello! :wave:
 
-- :deciduous_tree: My name is Nick (Nicholas), and I'm a web developer :: back-end and front-end.
-- :computer: Primarily experienced in WordPress, PHP, SQL, HTML, CSS/Sass, JavaScript/jQuery (and a bit of React).
+- :computer: Web developer primarily experienced in WordPress, PHP, SQL, CSS/Sass, JavaScript.
 - :newspaper: I also dabble in writing, editing, and proofreading (e.g. copywriting, copyediting, and technical writing).
 - :fr: With respect to languages, I am fluent in English and modestly functional in French. 
-
-<br>
-
-> Just a note that most of my repositories are **private** and thus not visible. These are typically codebases for courses and they don't really serve any useful function in terms of showcasing my abilities. The exception is my personal website, which is a simple project and I have made that private as well.
-
-> The few that are publically available are fairly out-of-date. I would suggest looking at any **pinned** posts for examples of my non-work-related development contributions!
 
 <!--
 **nlamo/nlamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

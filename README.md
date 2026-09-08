@@ -1,7 +1,7 @@
 ### Hello! :wave:
 
 - :computer: Web developer primarily experienced in WordPress, PHP, SQL, CSS/Sass, JavaScript.
-- :newspaper: I also dabble in writing, editing, and proofreading (e.g. copywriting, copyediting, and technical writing).
+- :blue_book: I also dabble in writing, editing, and proofreading (e.g. copywriting, copyediting, and technical writing).
 - :fleur_de_lis: With respect to languages, I am fluent in English and modestly functional in French. 
 
 <!--
